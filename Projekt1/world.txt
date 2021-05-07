@@ -1,0 +1,42 @@
+15 15
+owca: 4 0 1 4
+guarana: 11 0 1 0
+guarana: 12 0 0 0
+zolw: 5 1 1 2
+zolw: 10 1 1 2
+barszcz sosnowskiego: 3 2 1 10
+barszcz sosnowskiego: 12 2 1 10
+trawa: 0 3 1 0
+lis: 6 3 1 3
+wilk: 14 3 1 9
+owca: 8 4 1 4
+owca: 3 5 1 4
+wilcze jagody: 5 5 1 99
+barszcz sosnowskiego: 7 5 1 10
+mlecz: 10 5 1 0
+mlecz: 11 5 0 0
+antylopa: 12 5 1 4
+lis: 10 6 1 3
+guarana: 13 6 1 0
+wilk: 1 7 1 12
+mlecz: 5 7 1 0
+zolw: 8 7 1 2
+wilk: 0 8 1 9
+trawa: 2 8 0 0
+wilcze jagody: 10 8 1 99
+wilk: 1 9 1 9
+trawa: 2 9 1 0
+antylopa: 7 9 1 4
+wilk: 0 10 0 9
+guarana: 3 10 1 0
+barszcz sosnowskiego: 5 10 1 10
+lis: 14 10 1 3
+czlowiek: 5 12 1 9 1
+mlecz: 11 12 1 0
+mlecz: 12 12 0 0
+antylopa: 6 13 1 4
+wilcze jagody: 13 13 0 99
+wilcze jagody: 14 13 1 99
+zolw: 1 14 1 2
+wilcze jagody: 3 14 1 99
+trawa: 14 14 1 0
